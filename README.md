@@ -1,5 +1,5 @@
 ## About Me:
-First year college student and aspiring software developer, with interest in tech, programming and innovation. 
+First year college student and aspiring software developer, with interest in tech, programming and innovation. <br>
 --->Aspiring Software Developer<br>--->Web Development<br>--->Learning AI Tools
 
 
