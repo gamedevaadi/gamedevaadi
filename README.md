@@ -1,5 +1,5 @@
 # ABOUT ME:
---->Aspiring Software Engineer<br>--->Web Development<br>--->Learning AI Tools
+--->Aspiring Software Developer<br>--->Web Development<br>--->Learning AI Tools
 
 
 ## Socials:
