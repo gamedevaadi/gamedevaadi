@@ -19,18 +19,5 @@ First year college student and aspiring software developer, with interest in tec
 ![](https://streak-stats.demolab.com/?user=gamedevaadi&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gamedevaadi&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### --->Growth Analytics:
-
-<div align="center">
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=gamedevaadi&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="48%" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamedevaadi&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamedevaadi&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="48%" /> -->
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gamedevaadi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=161b22&hide_border=true&custom_title=System%20Consistency" width="98%" />
-</div>
 
 
