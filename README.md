@@ -1,10 +1,10 @@
 ## --->About Me:
-First year college student and aspiring software developer, with interest in tech, programming and innovation. <br>
---->Aspiring Software Developer<br>--->Web Development<br>--->Learning AI Tools
+Hi, I’m Aditya, a first-year B.Tech student at IIT Bhilai, aspiring software developer. I’m interested in tech, programming and innovation. <br>
+--->Aspiring Software Developer<br>--->Web Development<br>--->Python<br>--->AI Tools
 
 
 ## --->Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/snt_alonee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adiityakumarrr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gamedevaadi@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adiityakumarrr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gamedevaadi@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
